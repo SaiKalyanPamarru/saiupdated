@@ -1,0 +1,161 @@
+body{
+  margin:0;
+  background-color: #E4E9BE;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h1{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color: #712B75;
+  }
+h2{
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #A97155;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-cloud{
+  padding-top:50px;
+  height: 10%;
+  width: 10%;
+  position: relative;
+  left: 200px;
+
+}
+.bottom-cloud{
+  height: 10%;
+  width: 10%;
+  position: absolute;
+  left:300px;
+}
+.mountain{
+  padding-top: 35px;
+}
+.selfintro{
+  padding-top: 50px;
+}
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+.bikelist{
+  display: inline-block;
+  text-align: left;
+}
+.cookfood {
+  display: inline-block;
+  text-align: left;
+}
+.computer {
+  display: inline-block;
+  text-align: left;
+  }
+.readbook{
+  float: right;
+  padding-left: 50px;
+}
+.bike{
+  float: left;
+  padding-right: 50px;
+  padding-top: 22px;
+}
+.cook{
+  float: right;
+  padding-left: 50px;
+  padding-top: 70px;
+}
+.data{
+  float: left;
+  padding-right: 50px;
+  padding-top: 50px;
+}
+.reading{
+        display: inline-block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        text-align: left;
+}
+.bikeriding{
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+    text-align: left;
+  }
+.chef{
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: left;
+
+}
+.dataentry{
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: left;
+  }
+hr{
+  border-style: dotted;
+  width: 5%;
+  border-bottom: 0;
+  border-width: 8px;
+  border-color: #A2B38B;
+}
+.btn {
+  background: #004d0a;
+  background-image: -webkit-linear-gradient(top, #004d0a, #dfe897);
+  background-image: -moz-linear-gradient(top, #004d0a, #dfe897);
+  background-image: -ms-linear-gradient(top, #004d0a, #dfe897);
+  background-image: -o-linear-gradient(top, #004d0a, #dfe897);
+  background-image: linear-gradient(to bottom, #004d0a, #dfe897);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #23610b;
+  background-image: -webkit-linear-gradient(top, #23610b, #deaf68);
+  background-image: -moz-linear-gradient(top, #23610b, #deaf68);
+  background-image: -ms-linear-gradient(top, #23610b, #deaf68);
+  background-image: -o-linear-gradient(top, #23610b, #deaf68);
+  background-image: linear-gradient(to bottom, #23610b, #deaf68);
+  text-decoration: none;
+}
+
+.contact{
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.lastintro{
+  background-color: #A2B38B;
+  padding-top: 16px;
+  padding-bottom: 10px;
+}
+a{
+    margin: 10px 20px;
+  text-decoration: none;
+  font-size: 12px;
+}
+a:hover{
+  color: #FAFDD6;
+}
+.copy {
+  color: #FAFDD6;
+  font-size: 8px;
+}
